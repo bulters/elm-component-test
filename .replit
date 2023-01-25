@@ -1,0 +1,1 @@
+run="elm-live src/Main.elm -h 0.0.0.0 --pushstate"
